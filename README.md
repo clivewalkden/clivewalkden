@@ -1,7 +1,7 @@
 ## 🔥 Coding stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="display: flex">
+<p align="center">
 
 <picture>
   <source 
