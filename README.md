@@ -1,16 +1,22 @@
-### Hi there 👋
+## 🔥 Coding stats
 
-<!--
-**clivewalkden/clivewalkden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="display: flex">
 
-Here are some ideas to get you started:
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api?username=clivewalkden&count_private=true&show_icons=true&theme=darcula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=clivewalkden&count_private=true&show_icons=true&theme=calm"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=clivewalkden&count_private=true&show_icons=true&theme=darcula" />
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://git.io/streak-stats" target="_blank">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=clivewalkden&theme=darcula&date_format=j%20M%5B%20Y%5D" />
+</a>
+
+</p>
