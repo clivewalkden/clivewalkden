@@ -1,4 +1,4 @@
-## 🔥 Coding stats
+## &#128293; Github stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
@@ -20,3 +20,12 @@
 </a>
 
 </p>
+
+## &#127942; Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=clivewalkden&theme=onedark)](https://github.com/clivewalkden/github-profile-trophy)
+
+## &#129309; Contributions
+![Clive's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=clivewalkden)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
