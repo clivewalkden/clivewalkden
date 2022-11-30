@@ -28,4 +28,14 @@
 ![Clive's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=clivewalkden)
 
 <!--START_SECTION:waka-->
+
+```text
+Markdown       1 hr 3 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
+PHP            58 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
+XML            28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 %
+JSON           19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+Text           14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+JavaScript     12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+```
+
 <!--END_SECTION:waka-->
