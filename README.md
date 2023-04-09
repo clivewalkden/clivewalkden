@@ -31,10 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-CSV/TSV   0 secs          ██████████░░░░░░░░░░░░░░░   40.21 %
-PHP       0 secs          ███████▓░░░░░░░░░░░░░░░░░   30.78 %
-YAML      0 secs          ███████▒░░░░░░░░░░░░░░░░░   28.81 %
-JSON      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
