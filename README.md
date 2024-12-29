@@ -31,10 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP       1 hr 9 mins     ████████████░░░░░░░░░░░░░   47.50 %
-Log       1 hr 5 mins     ███████████▒░░░░░░░░░░░░░   44.96 %
-XML       10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
-CSV/TSV   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
