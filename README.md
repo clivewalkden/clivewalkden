@@ -31,7 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+SQL            32 mins         ████████████░░░░░░░░░░░░░   48.46 %
+Shell Script   12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
+Markdown       10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
+PHP            9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
+JSON           2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->
