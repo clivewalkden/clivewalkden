@@ -31,11 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              12 mins         ███████████▒░░░░░░░░░░░░░   45.45 %
-JSON             11 mins         ██████████▒░░░░░░░░░░░░░░   41.60 %
-XML              3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-Go               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
