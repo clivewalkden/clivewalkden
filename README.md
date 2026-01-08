@@ -31,7 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go             2 hrs 36 mins   ████████████████████▒░░░░   80.85 %
+Markdown       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+YAML           13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+JSON           10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
+PHP            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
