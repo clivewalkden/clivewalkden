@@ -31,11 +31,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown         3 hrs 42 mins         ██████░░░░░░░░░░░░░░░░░░░   23.71 %
-Swift            2 hrs 50 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.15 %
-Kotlin           2 hrs 43 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
-TypeScript       2 hrs 2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
-YAML             1 hr 4 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+Markdown         3 hrs 51 mins         ██████░░░░░░░░░░░░░░░░░░░   24.15 %
+Kotlin           2 hrs 49 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
+Swift            2 hrs 44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
+TypeScript       2 hrs 12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
+YAML             1 hr 3 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
 ```
 
 <!--END_SECTION:waka-->
